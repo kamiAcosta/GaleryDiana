@@ -1,4 +1,4 @@
-.P-PrincipalTitle{
+.PrincipalTitle{
     font-family: 'Lobster Two', cursive;
     text-aling: center;
 }
