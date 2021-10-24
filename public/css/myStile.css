@@ -1,9 +1,9 @@
-.PrincipalTitle{
+.textTitle{
     font-family: 'Kalam', cursive;
     text-align: center;
 }
 
-.card-Text{
-color: black;
+.textDescrip{
+text-align: center;
 font-family: 'Zen Kaku Gothic Antique', sans-serif;
 }
